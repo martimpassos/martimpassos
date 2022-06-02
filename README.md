@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+Name's Martim. I graduated in **Architecture and urbanism** from FAU USP, a period during which I acquired a strong sense of **Photography**. I even studied the subject during my year abroad at Parsons The New School for Design. My thesis work [Meanders](https://vimeo.com/showcase/4937987/video/261932627) combined **urbanism**, **georreferencing** and **drone imagery**. After learning a bit of programming, I revisited this project in this [Observable notebook](https://observablehq.com/@martimpassos/meandros)
+
+I went on to learn **Python** by demand of a job I got at [Instituto Moreira Salles](https://ims.com.br/), where I still work dealing with **cultural heritage metadata**, **image processing** and **web diffusion**. I also had the chance to lead a team of other two people building an **ETL** data pipeline to feed [imagineRio](https://imaginerio.org/) with **IIIF** assets.
+
+Finally, I moonlight as a 90's electronic music nerd. Some of my favourite places on the internet are Discogs, MixesDB and [beets](https://github.com/beetbox/beets), which bring together my interests in data and music.
+
+Looking forward, my plan is to better learn **Javascript**, most specifically **React** and **NextJS**, in order to create beautiful, interactive interfaces for exploring the data I work with. I might not be the most experienced programmer, but my multidisciplinary background allows me to communicate with a wide range of professionals and areas.
+
+
 <!--
 **martimpassos/martimpassos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
