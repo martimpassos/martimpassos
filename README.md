@@ -2,7 +2,7 @@
 
 Name's Martim. I graduated in **Architecture and urbanism** from FAU USP, a period during which I acquired a strong sense of **Photography**. I even studied the subject during my year abroad at Parsons The New School for Design. My thesis work [Meanders](https://vimeo.com/showcase/4937987/video/261932627) combined **urbanism**, **georreferencing** and **drone imagery**. After learning a bit of programming, I revisited this project in this [Observable notebook](https://observablehq.com/@martimpassos/meandros).
 
-I went on to learn **Python** by demand of a job I got at [Instituto Moreira Salles](https://ims.com.br/), where I still work dealing with **cultural heritage metadata**, **image processing** and **web diffusion**. I also had the chance to lead a team of other two people building an **ETL** data pipeline to feed [imagineRio](https://imaginerio.org/) with **IIIF** assets.
+I went on to learn **Python** by demand of a job I got at [Instituto Moreira Salles](https://ims.com.br/), where I still work dealing with **cultural heritage metadata**, **image processing** and **web diffusion**. I also had the chance to lead a team of two other people building an **ETL** data pipeline to feed [imagineRio](https://imaginerio.org/) with **IIIF** assets.
 
 My plan going forward is to better learn **Javascript**, more specifically **React** and **NextJS**, in order to create beautiful, interactive interfaces for exploring the data I work with. I might not be the most experienced programmer, but my multidisciplinary background allows me to communicate with a wide range of professionals and areas.
 
