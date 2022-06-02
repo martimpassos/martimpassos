@@ -6,7 +6,7 @@ I went on to learn **Python** by demand of a job I got at [Instituto Moreira Sal
 
 Finally, I moonlight as a 90's electronic music nerd. Some of my favourite places on the internet are Discogs, MixesDB and [beets](https://github.com/beetbox/beets), which bring together my interests in data and music.
 
-Looking forward, my plan is to better learn **Javascript**, most specifically **React** and **NextJS**, in order to create beautiful, interactive interfaces for exploring the data I work with. I might not be the most experienced programmer, but my multidisciplinary background allows me to communicate with a wide range of professionals and areas.
+Looking forward, my plan is to better learn **Javascript**, more specifically **React** and **NextJS**, in order to create beautiful, interactive interfaces for exploring the data I work with. I might not be the most experienced programmer, but my multidisciplinary background allows me to communicate with a wide range of professionals and areas.
 
 
 <!--
